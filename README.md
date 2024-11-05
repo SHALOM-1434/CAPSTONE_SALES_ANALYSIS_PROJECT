@@ -105,39 +105,40 @@ This visulas below provide a comprehensive view of product and regional performa
 
 
 
-### **Key Insights and Findings **
+### Key Insights and Findings
 ____________________
 
-**Top Products**:
+#### Top Products:
 
 **Insight**: The "Total Sales by Product" bar chart shows that Shoes generate the highest sales revenue ($613,380), followed by Shirt ($485,600). Other products like Hat and Gloves contribute less significantly.
 
 **Finding**: Shoes and shirts are likely bestsellers, indicating strong customer demand for these items. This insight suggests an opportunity to maintain or increase inventory levels for these products. Additionally, lower-performing products like hats and gloves may need promotional efforts or reevaluation.
   
-- **Regional Sales Trends**:
-**Insight**: The "Total Sales by Region" pie chart highlights that the South region accounts for the highest percentage of sales ($927,820) followed by the East region ($485,924). The West and North regions have smaller shares.
+#### Regional Sales Trends:
+  
+**Insight**: The "Total Sales by Region" table highlights that the South region accounts for the highest percentage of sales ($927,820) followed by the East region ($485,924). The West and North regions have smaller shares.
   
 **Finding**: The South region appears to be the most lucrative market, while the West and North regions show lower sales. This insight could guide regional marketing efforts, suggesting a focus on high-potential regions while exploring ways to improve sales in underperforming regions.
   
-**Total Sales vs. Quantity Sold by Product:**
+#### Total Sales vs. Quantity Sold by Product:
 
 **Insight**: The "Total Sales by Product" chart ranks products by revenue, with Shoes leading in sales ($613,380), followed by Shirt and Hat. However, the "Quantity Sold by Product" chart shows that Hat has the highest quantity sold (15,929 units), despite generating less revenue than Shoes.
 
 **Finding**: This suggests that Shoes have a higher price per unit than Hat, contributing to higher revenue with fewer units sold. Conversely, Hat is sold at a lower price but in high volumes. This insight can guide pricing strategies—highlighting that some products might benefit from price adjustments to balance unit sales with revenue generation.
 
-- **Monthly Sales Trend**:
+#### Monthly Sales Trend:
   
 **Insight**: The "Monthly Sales Totals for the Current Year" bar chart reveals a notable peak in February (0.2M) and March (0.3M), with a dip in sales from April through August.
 
 **Finding**: The sales peaks in February and March could be due to seasonal demand, promotions, or events driving purchases during these months. This trend indicates potential seasonality in sales, and strategies such as seasonal promotions or inventory adjustments can be planned accordingly.
   
-***Sales Comparison by Month and Year***
+#### Sales Comparison by Month and Year
 
 **Insight**: The "Total Sales by Month & Year" chart compares monthly sales for 2023 and 2024. February 2024 shows a significant spike compared to February 2023, while other months have more stable or lower sales.
 
 **Finding**: The sales growth in February 2024 suggests a successful campaign or a rise in demand during this period compared to 2023. Monitoring these year-over-year changes can help identify the impact of specific promotions, economic conditions, or external factors.
 
-**Product With No Sales in the Last Quarter:**
+#### Product With No Sales in the Last Quarter:
 
 **Insight**: No Sales Activity: The table shows that products such as Gloves, Hat, Jacket, Shirt, and Shoes recorded no sales in the last quarter. This could indicate reduced demand, seasonal variations, or an issue with inventory availability.
 
