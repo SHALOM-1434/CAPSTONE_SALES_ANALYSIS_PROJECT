@@ -2,6 +2,25 @@
 This is the project that sharpens the skills I have acquired during my training with the Incubator Hub
 ## Project Title: Sales Performance Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Technology Stack](#technology-stack)
+
+[Key Objectives](#key-bjectives)
+
+[Explolatory Data Analysis](#explolatory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[Key Insights and Findings](#key-insights-and-findings)
+
+[Overall Recommendations](#overall-recommendations)
+
+
 
 ### Project Overview:
 ____________________
@@ -52,7 +71,7 @@ _____________________
 
 
 
-### Explolatory Data Analysis:Summarize key metrics, such as the following:
+### Explolatory Data Analysis:Summarizes key metrics, such as the following:
 _________________________
 
   • **Product Sales Distribution**: Plotted charts of Sales per product to see which products sell the most or least.
