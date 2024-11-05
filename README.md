@@ -105,6 +105,12 @@ This visulas below provide a comprehensive view of product and regional performa
 
 
 
+![Total Sales By Product - Excel](https://github.com/user-attachments/assets/71a29259-69e7-4788-8be9-2e8ee4a7ebbc)
+
+
+![Sales Revenue Table](https://github.com/user-attachments/assets/a5b6a041-5b00-43a8-b59f-eb0999d58b6f)
+
+![Sales vs  Quantity Sold](https://github.com/user-attachments/assets/99e7f38d-e65b-4074-a2aa-ac3bfce9d027)
 
 
 ### Key Insights and Findings
