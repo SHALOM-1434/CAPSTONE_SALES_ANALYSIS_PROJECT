@@ -96,6 +96,12 @@ This project is designed to answer specific questions to achieve business goals.
 
 •	What is the total revenue per region, per product and over a period of time?
 
+      -SELECT * FROM [dbo].[SALES_PEACE]
+      -SELECT PRODUCT, SUM(SALES) AS TOTAL_SALES FROM [dbo].[SALES_PEACE]
+GROUP BY PRODUCT;      (SQL Query)
+
+    - What is the average Sales per product?
+    Average Sales Per Product = average('LITA Sales Project'[Sales]) (Power BI)
 •	Identify the top and bottom revenue generating products:
 
 •	How has revenue changed over time?
